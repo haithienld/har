@@ -1,4 +1,4 @@
-## Dataset at Download and put to data/HAR_pose_activities/databases/*.txt
+## Plz download and put the dataset to data/HAR_pose_activities/databases/*.txt
 https://drive.google.com/open?id=1IuZlyNjg6DMQE3iaO1Px6h1yLKgatynt
 # Real-time 3D Multi-person Pose Estimation Demo
 
